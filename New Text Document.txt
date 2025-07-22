@@ -1,0 +1,6 @@
+welcome to git
+
+Workspace: The folder on our system where we can create and edit files
+Staging Area: A place to prepare selected changes before committing.
+Local Repository: Stores your project’s commit history on your computer.
+Remote Repository: A shared repository used for collaboration and backup.
